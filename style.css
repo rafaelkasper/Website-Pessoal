@@ -1,0 +1,11 @@
+.carousel .carousel-item img {
+  width: 100% !important;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: 'Ubuntu', sans-serif;
+}
+
